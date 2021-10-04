@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strefa Dyskomfortu</title>
+    <link>https://paszavonpomiot.github.io/</link>
+    <description>Recent content on Strefa Dyskomfortu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <lastBuildDate>Mon, 04 Oct 2021 22:58:41 +0200</lastBuildDate><atom:link href="https://paszavonpomiot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post123</title>
+      <link>https://paszavonpomiot.github.io/posts/post1/</link>
+      <pubDate>Mon, 04 Oct 2021 22:58:41 +0200</pubDate>
+      
+      <guid>https://paszavonpomiot.github.io/posts/post1/</guid>
+      <description>Advertisement :)
+ pica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax.  You will like those projects!
+ h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+test.. test&amp;hellip; test&amp;hellip;.. test?</description>
+    </item>
+    
+  </channel>
+</rss>
