@@ -2,16 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://paszavonpomiot.github.io/posts/post1/</loc>
-    <lastmod>2021-10-04T22:58:41+02:00</lastmod>
+    <loc>https://paszavonpomiot.github.io/posts/post2/</loc>
+    <lastmod>2021-10-05T00:19:25+02:00</lastmod>
   </url><url>
     <loc>https://paszavonpomiot.github.io/posts/</loc>
-    <lastmod>2021-10-04T22:58:41+02:00</lastmod>
+    <lastmod>2021-10-05T00:19:25+02:00</lastmod>
   </url><url>
     <loc>https://paszavonpomiot.github.io/</loc>
+    <lastmod>2021-10-05T00:19:25+02:00</lastmod>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/1/</loc>
     <lastmod>2021-10-04T22:58:41+02:00</lastmod>
   </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/104/</loc>
+    <lastmod>2017-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/103/</loc>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/102/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/101/</loc>
+    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/100/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/105/</loc>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/106/</loc>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/107/</loc>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/108/</loc>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/posts/110/</loc>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/authors/</loc>
+  </url><url>
     <loc>https://paszavonpomiot.github.io/categories/</loc>
+  </url><url>
+    <loc>https://paszavonpomiot.github.io/series/</loc>
   </url><url>
     <loc>https://paszavonpomiot.github.io/tags/</loc>
   </url>
